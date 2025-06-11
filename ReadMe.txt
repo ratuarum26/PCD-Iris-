@@ -1,5 +1,10 @@
 UAS_PCD_23E_KEL11
 
+Anggota:
+- Shafira Nabila Noer Poerwanto (23031554011)
+- Ratu Arum Rahma Gati (23031554142)
+- Chiara Dewi Chatlina (23031554170)
+
 
 Proyek Identifikasi Iris: Analisis Perbandingan Metode dan Optimasi
 Proyek ini merupakan implementasi dan analisis sistem identifikasi iris mata dari awal menggunakan dataset MMU-Iris-Database. Tujuan utamanya adalah untuk membangun sebuah pipeline yang andal, membandingkan beberapa pendekatan populer, dan mengidentifikasi batasan kinerja dari metode-metode tersebut.
